@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f34aa6e2-fb26-4b83-8c95-bc3672f77310" name="Changes" comment="Fixed the checkstyle errors.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/comp2522/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comp2522/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="f34aa6e2-fb26-4b83-8c95-bc3672f77310" name="Changes" comment="Edited the comment.">
+      <change beforePath="$PROJECT_DIR$/src/comp2522/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comp2522/java/org/comp2522/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662430829351</updated>
       <workItem from="1662430833132" duration="985000" />
-      <workItem from="1662431830089" duration="2276000" />
+      <workItem from="1662431830089" duration="2841000" />
     </task>
     <task id="LOCAL-00001" summary="Changed the greeting to my favourite animal">
       <created>1662431373902</created>
@@ -62,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662432552855</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Edited the comment.">
+      <created>1662480640173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662480640173</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed the greeting to my favourite animal" />
     <MESSAGE value="Fixed the checkstyle errors." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed the checkstyle errors." />
+    <MESSAGE value="Edited the comment." />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited the comment." />
   </component>
 </project>

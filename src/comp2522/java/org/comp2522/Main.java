@@ -1,4 +1,4 @@
-package org.example;
+package org.comp2522;
 
 /**
  * Class has a main method that prints what my favourite animal is.
