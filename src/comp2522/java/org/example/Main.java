@@ -1,7 +1,7 @@
 package org.example;
 
 /**
- * Class has a main method that prints what my favourite  is.
+ * Class has a main method that prints what my favourite animal is.
  */
 public class Main {
   public static void main(String[] args) {
